@@ -33,6 +33,8 @@ close.plot()
 
 # Adding some additional data
 
+# Adding Additional Data
+
 # Get the difference in price from previous step
 #delta = close.diff()
 ## Get rid of the first row, which is NaN since it did not have a previous 
