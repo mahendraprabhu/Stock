@@ -31,7 +31,7 @@ MA_200.plot()
 MA_15.plot()
 close.plot()
 
-
+# Adding some additional data
 
 # Get the difference in price from previous step
 #delta = close.diff()
