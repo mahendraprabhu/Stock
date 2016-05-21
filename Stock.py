@@ -6,7 +6,7 @@ Created on Tue Aug 04 17:12:05 2015
 """
 
 import pandas
-import pandas.io.data
+from pandas.io import data
 import datetime
 import matplotlib.pyplot as plt
 
